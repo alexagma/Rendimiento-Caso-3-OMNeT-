@@ -20,7 +20,7 @@ simple Source
     parameters:
         @display("i=block/source");
         int lambda = 2;
-        int samples = 10;
+        int samples = 100;
     gates:
         output out;
 }
@@ -52,7 +52,7 @@ network networkSW
         {
             datarate = 9600bps;
             delay = 100us;
-            per = 0.2;
+            per = 0.05;
         }
     submodules:
 

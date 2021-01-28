@@ -21,10 +21,10 @@ void Receiver::handleMessage(cMessage *msg){
     int arrivalGateIndex = arrivalGate -> getIndex();
     if (packet -> getKind() == 1) {
         if (packet -> hasBitError()) {
-            sendAck(arrivalGateIndex,packet);
+            sendNack(arrivalGateIndex);
         }
         else {
-            sendNack(arrivalGateIndex);
+            sendAck(arrivalGateIndex,packet);
         }
     }
     else{
