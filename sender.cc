@@ -7,16 +7,18 @@
 using namespace omnetpp;
 
 class Sender : public cSimpleModule{
-private:
-    cChannel *channel[2];
-    cQueue *queue[2];
-    double probability;
-protected:
-    virtual void initialize() override;
-    virtual void handleMessage(cMessage *msg) override;
-    virtual void continueRoute(Paquete *packet);
-    virtual void getFirstQueuePacket(int gateIndex,int error);
-    virtual void sendPacket(Paquete *packet, int gateIndex);
+    private:
+        cChannel *channel[2];
+        cQueue *queue[2];
+        double probability;
+        cHistogram hopCountStats;
+        cOutVector hopCountVector;
+    protected:
+        virtual void initialize() override;
+        virtual void handleMessage(cMessage *msg) override;
+        virtual void continueRoute(Paquete *packet);
+        virtual void getFirstQueuePacket(int gateIndex,int error);
+        virtual void sendPacket(Paquete *packet, int gateIndex);
 };
 
 Define_Module(Sender);

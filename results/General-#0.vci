@@ -1,0 +1,23 @@
+file 693 1611966793                                             
+version 2
+run General-0-20210130-01:23:25-14720
+attr configname General
+attr datetime 20210130-01:23:25
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network networkSW
+attr processid 14720
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 networkSW.node4 Source2-node2-node4 ETV
+vector 1 networkSW.node3 Source2-node2-node3 ETV
+0	473 109 603 603 0.106766666667 0.106766666667 4 0 1 1.106766666667 1.0113991211112
+1	582 109 604 604 0.106766666667 0.106766666667 4 0 3 4.106766666667 10.011399121111
+

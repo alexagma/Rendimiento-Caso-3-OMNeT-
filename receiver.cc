@@ -1,16 +1,24 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <iostream>
+#include <fstream>
 #include <omnetpp.h>
 #include "paquete_m.h"
 
 using namespace omnetpp;
 
 class Receiver : public cSimpleModule{
-protected:
-    virtual void handleMessage(cMessage *msg);
-    virtual void sendNack(int arrivalGateIndex);
-    virtual void sendAck(int arrivalGateIndex,Paquete *packet);
+    private:
+        cLongHistogram hops;
+        cLongHistogram errors;
+
+    protected:
+        virtual void handleMessage(cMessage *msg) override;
+        virtual void sendNack(int arrivalGateIndex);
+        virtual void sendAck(int arrivalGateIndex,Paquete *packet);
+        virtual void createFile(Paquete *packet);
+        virtual void finish() override;
 };
 
 Define_Module(Receiver);
@@ -41,10 +49,9 @@ void Receiver::sendAck(int arrivalGateIndex,Paquete *packet){
     std::string route2 = route1.append("-");
     route2.append(getName());
     packet -> setRoute(route2.data());
-    EV << "Ruta: " + std::string(packet -> getRoute()) + ", Paquete:" + std::to_string(packet -> getSeq()) + "\n";
-    EV << "Duracion: " + std::to_string(packet -> getLifeTime()) + "\n";
-    EV << "Saltos: " + std::to_string(packet -> getHops()) + "\n";
-    EV << "Errores: " + std::to_string(packet -> getErrors()) + "\n";
+    hops.collect(packet->getHops());
+    errors.collect(packet->getErrors());
+    createFile(packet);
     send(ack, "out",arrivalGateIndex);
 }
 
@@ -53,6 +60,22 @@ void Receiver::sendNack(int arrivalGateIndex){
     Paquete * nack = new Paquete("nack");
     nack -> setKind(3);
     send(nack, "out",arrivalGateIndex);
+}
+
+void Receiver::createFile(Paquete *packet){
+    std::ofstream outfile ("results.txt",std::ios_base::app);
+    outfile << "Ruta: " << std::string(packet->getRoute()) << endl;
+    outfile << "Paquete: " << packet->getSeq() << endl;
+    outfile << "Saltos: " << packet->getHops() << endl;
+    outfile << "Errores: " << packet->getErrors() << endl;
+    outfile << "Tiempo de llegada: " << packet->getLifeTime() << endl;
+    outfile << "\n" << endl;
+    outfile.close();
+}
+
+void Receiver::finish(){
+    hops.recordAs("Hops count");
+    errors.recordAs("Errors count");
 }
 
 

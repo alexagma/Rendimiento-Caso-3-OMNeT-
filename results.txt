@@ -1,0 +1,2100 @@
+Ruta: Source2-node2-node4
+Paquete: 1
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.106767
+
+
+Ruta: Source2-node2-node3
+Paquete: 4
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.106767
+
+
+Ruta: Source3-node5-node4
+Paquete: 1
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.106767
+
+
+Ruta: Source2-node2-node3
+Paquete: 5
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.213633
+
+
+Ruta: Source3-node5-node4
+Paquete: 2
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.213633
+
+
+Ruta: Source2-node2-node3
+Paquete: 7
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.3205
+
+
+Ruta: Source3-node5-node4
+Paquete: 4
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.3205
+
+
+Ruta: Source2-node2-node4
+Paquete: 2
+Saltos: 3
+Errores: 2
+Tiempo de llegada: 0.427367
+
+
+Ruta: Source2-node2-node3
+Paquete: 11
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.427367
+
+
+Ruta: Source3-node5-node4
+Paquete: 5
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.427367
+
+
+Ruta: Source2-node2-node4
+Paquete: 3
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.534233
+
+
+Ruta: Source2-node2-node3
+Paquete: 15
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.534233
+
+
+Ruta: Source3-node5-node4
+Paquete: 7
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.534233
+
+
+Ruta: Source2-node2-node4
+Paquete: 6
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.6411
+
+
+Ruta: Source2-node2-node3
+Paquete: 17
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.6411
+
+
+Ruta: Source3-node5-node4
+Paquete: 8
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.6411
+
+
+Ruta: Source2-node2-node4
+Paquete: 8
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.747967
+
+
+Ruta: Source2-node2-node3
+Paquete: 19
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.747967
+
+
+Ruta: Source3-node5-node4
+Paquete: 9
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.747967
+
+
+Ruta: Source2-node2-node4
+Paquete: 9
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.854833
+
+
+Ruta: Source2-node2-node3
+Paquete: 22
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.854833
+
+
+Ruta: Source2-node2-node4
+Paquete: 10
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.9617
+
+
+Ruta: Source2-node2-node3
+Paquete: 23
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 0.9617
+
+
+Ruta: Source3-node5-node4
+Paquete: 10
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 0.9617
+
+
+Ruta: Source2-node2-node4
+Paquete: 12
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.06857
+
+
+Ruta: Source2-node2-node3
+Paquete: 25
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.06857
+
+
+Ruta: Source3-node5-node4
+Paquete: 12
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.06857
+
+
+Ruta: Source2-node2-node4
+Paquete: 13
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.17543
+
+
+Ruta: Source2-node2-node3
+Paquete: 30
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.17543
+
+
+Ruta: Source3-node5-node4
+Paquete: 13
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.17543
+
+
+Ruta: Source2-node2-node3
+Paquete: 31
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.2823
+
+
+Ruta: Source3-node5-node4
+Paquete: 14
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.2823
+
+
+Ruta: Source2-node2-node4
+Paquete: 14
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 1.38917
+
+
+Ruta: Source2-node2-node3
+Paquete: 35
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.38917
+
+
+Ruta: Source3-node5-node4
+Paquete: 17
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.38917
+
+
+Ruta: Source2-node2-node4
+Paquete: 16
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.49603
+
+
+Ruta: Source2-node2-node3
+Paquete: 42
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.49603
+
+
+Ruta: Source3-node5-node4
+Paquete: 18
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.49603
+
+
+Ruta: Source2-node2-node4
+Paquete: 18
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.6029
+
+
+Ruta: Source2-node2-node3
+Paquete: 46
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.6029
+
+
+Ruta: Source3-node5-node4
+Paquete: 19
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.6029
+
+
+Ruta: Source2-node2-node4
+Paquete: 20
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.70977
+
+
+Ruta: Source3-node5-node4
+Paquete: 22
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.70977
+
+
+Ruta: Source2-node2-node4
+Paquete: 21
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.81663
+
+
+Ruta: Source2-node2-node3
+Paquete: 47
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 1.81663
+
+
+Ruta: Source3-node5-node4
+Paquete: 23
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.81663
+
+
+Ruta: Source2-node2-node4
+Paquete: 24
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.9235
+
+
+Ruta: Source2-node2-node3
+Paquete: 49
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.9235
+
+
+Ruta: Source3-node5-node4
+Paquete: 26
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 1.9235
+
+
+Ruta: Source2-node2-node4
+Paquete: 26
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.03037
+
+
+Ruta: Source2-node2-node3
+Paquete: 51
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.03037
+
+
+Ruta: Source3-node5-node4
+Paquete: 27
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.03037
+
+
+Ruta: Source2-node2-node4
+Paquete: 27
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.13723
+
+
+Ruta: Source2-node2-node3
+Paquete: 53
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.13723
+
+
+Ruta: Source3-node5-node4
+Paquete: 29
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.13723
+
+
+Ruta: Source2-node2-node4
+Paquete: 28
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.2441
+
+
+Ruta: Source2-node2-node3
+Paquete: 55
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.2441
+
+
+Ruta: Source3-node5-node4
+Paquete: 31
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.2441
+
+
+Ruta: Source2-node2-node4
+Paquete: 29
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.35097
+
+
+Ruta: Source2-node2-node3
+Paquete: 57
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.35097
+
+
+Ruta: Source3-node5-node4
+Paquete: 32
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.35097
+
+
+Ruta: Source2-node2-node4
+Paquete: 32
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.45783
+
+
+Ruta: Source2-node2-node3
+Paquete: 61
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.45783
+
+
+Ruta: Source3-node5-node4
+Paquete: 33
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.45783
+
+
+Ruta: Source2-node2-node4
+Paquete: 33
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.5647
+
+
+Ruta: Source2-node2-node3
+Paquete: 62
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.5647
+
+
+Ruta: Source3-node5-node4
+Paquete: 34
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.5647
+
+
+Ruta: Source2-node2-node4
+Paquete: 34
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.67157
+
+
+Ruta: Source2-node2-node3
+Paquete: 67
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.67157
+
+
+Ruta: Source3-node5-node4
+Paquete: 35
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.67157
+
+
+Ruta: Source2-node2-node4
+Paquete: 36
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.77843
+
+
+Ruta: Source2-node2-node3
+Paquete: 71
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.77843
+
+
+Ruta: Source3-node5-node4
+Paquete: 36
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.77843
+
+
+Ruta: Source2-node2-node4
+Paquete: 37
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.8853
+
+
+Ruta: Source2-node2-node3
+Paquete: 74
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.8853
+
+
+Ruta: Source3-node5-node4
+Paquete: 37
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.8853
+
+
+Ruta: Source2-node2-node4
+Paquete: 38
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.99217
+
+
+Ruta: Source3-node5-node4
+Paquete: 38
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 2.99217
+
+
+Ruta: Source2-node2-node4
+Paquete: 39
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.09903
+
+
+Ruta: Source2-node2-node3
+Paquete: 76
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 3.09903
+
+
+Ruta: Source3-node5-node4
+Paquete: 39
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.09903
+
+
+Ruta: Source2-node2-node4
+Paquete: 40
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.2059
+
+
+Ruta: Source2-node2-node3
+Paquete: 77
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.2059
+
+
+Ruta: Source3-node5-node4
+Paquete: 41
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.2059
+
+
+Ruta: Source2-node2-node4
+Paquete: 41
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.31277
+
+
+Ruta: Source2-node2-node3
+Paquete: 78
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.31277
+
+
+Ruta: Source3-node5-node4
+Paquete: 44
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.31277
+
+
+Ruta: Source2-node2-node4
+Paquete: 43
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.41963
+
+
+Ruta: Source2-node2-node3
+Paquete: 81
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.41963
+
+
+Ruta: Source3-node5-node4
+Paquete: 45
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.41963
+
+
+Ruta: Source2-node2-node3
+Paquete: 85
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.5265
+
+
+Ruta: Source3-node5-node4
+Paquete: 50
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.5265
+
+
+Ruta: Source2-node2-node4
+Paquete: 44
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 3.63337
+
+
+Ruta: Source2-node2-node3
+Paquete: 86
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.63337
+
+
+Ruta: Source3-node5-node4
+Paquete: 51
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.63337
+
+
+Ruta: Source2-node2-node4
+Paquete: 45
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.74023
+
+
+Ruta: Source2-node2-node3
+Paquete: 87
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.74023
+
+
+Ruta: Source3-node5-node4
+Paquete: 55
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.74023
+
+
+Ruta: Source2-node2-node4
+Paquete: 48
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.8471
+
+
+Ruta: Source2-node2-node3
+Paquete: 91
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.8471
+
+
+Ruta: Source3-node5-node4
+Paquete: 56
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.8471
+
+
+Ruta: Source2-node2-node4
+Paquete: 50
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.95397
+
+
+Ruta: Source2-node2-node3
+Paquete: 92
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.95397
+
+
+Ruta: Source3-node5-node4
+Paquete: 58
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 3.95397
+
+
+Ruta: Source2-node2-node4
+Paquete: 52
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.06083
+
+
+Ruta: Source2-node2-node3
+Paquete: 95
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.06083
+
+
+Ruta: Source3-node5-node4
+Paquete: 63
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.06083
+
+
+Ruta: Source2-node2-node4
+Paquete: 54
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.1677
+
+
+Ruta: Source2-node2-node3
+Paquete: 96
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.1677
+
+
+Ruta: Source2-node2-node4
+Paquete: 56
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.27457
+
+
+Ruta: Source2-node2-node3
+Paquete: 99
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.27457
+
+
+Ruta: Source3-node5-node4
+Paquete: 65
+Saltos: 2
+Errores: 1
+Tiempo de llegada: 4.27457
+
+
+Ruta: Source2-node2-node4
+Paquete: 58
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.38143
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 6
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.38143
+
+
+Ruta: Source3-node5-node4
+Paquete: 66
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.38143
+
+
+Ruta: Source2-node2-node4
+Paquete: 59
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.4883
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 11
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.4883
+
+
+Ruta: Source3-node5-node4
+Paquete: 67
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.4883
+
+
+Ruta: Source2-node2-node4
+Paquete: 60
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.59517
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 15
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.59517
+
+
+Ruta: Source3-node5-node4
+Paquete: 69
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.59517
+
+
+Ruta: Source2-node2-node4
+Paquete: 63
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.70203
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 36
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.70203
+
+
+Ruta: Source3-node5-node4
+Paquete: 70
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.70203
+
+
+Ruta: Source2-node2-node4
+Paquete: 64
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.8089
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 56
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.8089
+
+
+Ruta: Source3-node5-node4
+Paquete: 71
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.8089
+
+
+Ruta: Source2-node2-node4
+Paquete: 65
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.91577
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 60
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 4.91577
+
+
+Ruta: Source3-node5-node4
+Paquete: 75
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 4.91577
+
+
+Ruta: Source2-node2-node4
+Paquete: 66
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.02263
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 28
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.02263
+
+
+Ruta: Source3-node5-node4
+Paquete: 80
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.02263
+
+
+Ruta: Source2-node2-node4
+Paquete: 68
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.1295
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 70
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.1295
+
+
+Ruta: Source3-node5-node4
+Paquete: 81
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.1295
+
+
+Ruta: Source2-node2-node4
+Paquete: 69
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.23637
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 72
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.23637
+
+
+Ruta: Source3-node5-node4
+Paquete: 83
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.23637
+
+
+Ruta: Source2-node2-node4
+Paquete: 70
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.34323
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 46
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.34323
+
+
+Ruta: Source3-node5-node4
+Paquete: 84
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.34323
+
+
+Ruta: Source2-node2-node4
+Paquete: 72
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.4501
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 84
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.4501
+
+
+Ruta: Source3-node5-node4
+Paquete: 85
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.4501
+
+
+Ruta: Source2-node2-node4
+Paquete: 73
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.55697
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 91
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.55697
+
+
+Ruta: Source3-node5-node4
+Paquete: 89
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.55697
+
+
+Ruta: Source2-node2-node4
+Paquete: 75
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.66383
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 52
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.66383
+
+
+Ruta: Source3-node5-node4
+Paquete: 91
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.66383
+
+
+Ruta: Source2-node2-node4
+Paquete: 79
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.7707
+
+
+Ruta: Source3-node5-node4
+Paquete: 93
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.7707
+
+
+Ruta: Source2-node2-node4
+Paquete: 80
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.87757
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 93
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 5.87757
+
+
+Ruta: Source3-node5-node4
+Paquete: 94
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.87757
+
+
+Ruta: Source2-node2-node4
+Paquete: 82
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.98443
+
+
+Ruta: Source1-node1-node2-node3
+Paquete: 100
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 5.98443
+
+
+Ruta: Source3-node5-node4
+Paquete: 96
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 5.98443
+
+
+Ruta: Source2-node2-node4
+Paquete: 83
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.0913
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 54
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.0913
+
+
+Ruta: Source3-node5-node4
+Paquete: 97
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.0913
+
+
+Ruta: Source2-node2-node4
+Paquete: 84
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.19817
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 68
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.19817
+
+
+Ruta: Source3-node5-node4
+Paquete: 100
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.19817
+
+
+Ruta: Source2-node2-node4
+Paquete: 88
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.30503
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 72
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.30503
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 3
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.30503
+
+
+Ruta: Source2-node2-node4
+Paquete: 89
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.4119
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 76
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.4119
+
+
+Ruta: Source2-node2-node4
+Paquete: 90
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.51877
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 79
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.51877
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 8
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 6.51877
+
+
+Ruta: Source2-node2-node4
+Paquete: 93
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.62563
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 82
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 6.62563
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 11
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.62563
+
+
+Ruta: Source2-node2-node4
+Paquete: 94
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.7325
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 12
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.7325
+
+
+Ruta: Source2-node2-node4
+Paquete: 97
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.83937
+
+
+Ruta: Source3-node5-node2-node3
+Paquete: 86
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 6.83937
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 14
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.83937
+
+
+Ruta: Source2-node2-node4
+Paquete: 98
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 6.94623
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 1
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 6.94623
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 16
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 6.94623
+
+
+Ruta: Source2-node2-node4
+Paquete: 100
+Saltos: 1
+Errores: 0
+Tiempo de llegada: 7.0531
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 6
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.0531
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 19
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.0531
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 15
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.15997
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 7
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.15997
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 22
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.15997
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 3
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.26683
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 18
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.26683
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 25
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.26683
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 27
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.3737
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 21
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.3737
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 29
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.48057
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 32
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.48057
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 26
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 7.48057
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 31
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 7.58743
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 35
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.58743
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 39
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.6942
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 16
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.6943
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 40
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.6943
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 41
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.80107
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 20
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.80117
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 43
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.80117
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 42
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 7.90793
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 47
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.90803
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 45
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 7.90803
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 21
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.0149
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 46
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.0149
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 51
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.12177
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 50
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.12177
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 49
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 8.22853
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 52
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.22863
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 24
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 8.3355
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 53
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.3355
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 25
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.44237
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 55
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.44237
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 61
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 8.54913
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 64
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.54923
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 58
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.54923
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 30
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.6561
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 59
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.6561
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 66
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.76297
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 63
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.76297
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 40
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.86983
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 69
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.86983
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 75
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 8.9766
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 67
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.9767
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 71
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 8.9767
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 42
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.08357
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 73
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.08357
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 81
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 9.19033
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 43
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.19043
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 74
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.19043
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 47
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.2973
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 76
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.2973
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 85
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.40417
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 78
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.40417
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 48
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.51103
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 79
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.51103
+
+
+Ruta: Source1-node1-node2-node4
+Paquete: 90
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.6179
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 80
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.6179
+
+
+Ruta: Source1-node1-node5-node2-node3
+Paquete: 97
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 9.72467
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 83
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.72477
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 49
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 9.83163
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 86
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.83163
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 53
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.9385
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 87
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 9.9385
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 57
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 10.0454
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 59
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.1522
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 88
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 10.1522
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 60
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.2591
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 89
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.2591
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 61
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.366
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 95
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.366
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 62
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.4728
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 96
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.4728
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 64
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.5797
+
+
+Ruta: Source1-node1-node5-node4
+Paquete: 98
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.5797
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 73
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.6866
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 74
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.7934
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 77
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 10.9003
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 78
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.0072
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 87
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.114
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 88
+Saltos: 3
+Errores: 1
+Tiempo de llegada: 11.3278
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 90
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.4346
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 92
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.5415
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 95
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.6484
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 98
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.7552
+
+
+Ruta: Source3-node5-node2-node4
+Paquete: 99
+Saltos: 2
+Errores: 0
+Tiempo de llegada: 11.8621
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 2
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 11.969
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 4
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.0758
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 5
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.1827
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 9
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.2896
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 10
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.3964
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 13
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.5033
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 17
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 12.6102
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 20
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 12.717
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 23
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 12.8239
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 24
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 12.9308
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 28
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 13.0376
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 30
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 13.2514
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 33
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 13.4651
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 34
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 13.572
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 37
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 13.6788
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 38
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 13.7857
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 44
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 13.8926
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 48
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 13.9994
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 54
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.1063
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 57
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.2132
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 62
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.32
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 65
+Saltos: 4
+Errores: 1
+Tiempo de llegada: 14.4269
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 68
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.5338
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 77
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.6406
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 82
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.7475
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 92
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 14.8544
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 94
+Saltos: 5
+Errores: 2
+Tiempo de llegada: 15.0681
+
+
+Ruta: Source1-node1-node5-node2-node4
+Paquete: 99
+Saltos: 3
+Errores: 0
+Tiempo de llegada: 15.175
+
+

@@ -1,0 +1,80 @@
+version 2
+run General-0-20210130-17:33:05-19124
+attr configname General
+attr datetime 20210130-17:33:05
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network networkSW
+attr processid 19124
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+statistic networkSW.node3 "Hops count"
+field count 74
+field mean 1.7837837837838
+field stddev 0.89550277100862
+field min 1
+field max 4
+field sum 132
+field sqrsum 294
+attr type int
+bin	-inf	0
+bin	-1	0
+bin	0	0
+bin	1	36
+bin	2	21
+bin	3	14
+bin	4	3
+bin	5	0
+bin	6	0
+statistic networkSW.node3 "Errors count"
+field count 74
+field mean 0.10810810810811
+field stddev 0.31263649370096
+field min 0
+field max 1
+field sum 8
+field sqrsum 8
+attr type int
+bin	-inf	0
+bin	-1	0
+bin	0	66
+bin	1	8
+bin	2	0
+statistic networkSW.node4 "Hops count"
+field count 226
+field mean 1.7035398230088
+field stddev 0.84099720739817
+field min 1
+field max 5
+field sum 385
+field sqrsum 815
+attr type int
+bin	-inf	0
+bin	0	0
+bin	1	113
+bin	2	76
+bin	3	29
+bin	4	8
+statistic networkSW.node4 "Errors count"
+field count 226
+field mean 0.10176991150442
+field stddev 0.3310541549213
+field min 0
+field max 2
+field sum 23
+field sqrsum 27
+attr type int
+bin	-inf	0
+bin	-1	0
+bin	0	205
+bin	1	19
+bin	2	2
+bin	3	0
+

@@ -59,6 +59,7 @@ std::vector<double> Source::getFlow(int lambda,int samples){
 
 Paquete * Source::getPacket(){
     char nombrePaquete[15];
+    seq++;
     sprintf(nombrePaquete, "%s msg-%d",getName(),seq);
     Paquete * packet = new Paquete(nombrePaquete);
     packet -> setBitLength(1024);
@@ -66,7 +67,6 @@ Paquete * Source::getPacket(){
     packet -> setSeq(seq);
     packet -> setEnableRoute(true);
     packet -> setRoute(getName());
-    seq++;
     return packet;
 }
 

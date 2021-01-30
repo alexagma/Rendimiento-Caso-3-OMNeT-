@@ -28,8 +28,8 @@ simple Source
 simple Sender
 {
     parameters:
-        double probability;
         @display("i=block/departure");
+        double probability;
     gates:
         input in[];
         output out[];
